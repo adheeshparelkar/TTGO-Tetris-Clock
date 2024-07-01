@@ -42,7 +42,7 @@ int vref = 1100;
 int btnCick = false;
 
 const char* ssid     = "<WIFI-SSID";
-const char* password = "WIFI-PASSWORD";
+const char* password = "<WIFI-PASSWORD>";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = -25200;
