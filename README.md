@@ -1,0 +1,1 @@
+Tetris Clock For ESP32 TTGO (LilyGo) board. Would need a correctly configured TFT_eSPI library. Remember to update the WiFi SSID and password. I am working on integrating wifi manager for on the fly wifi network changes. 
